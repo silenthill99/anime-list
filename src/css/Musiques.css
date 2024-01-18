@@ -1,0 +1,10 @@
+.musiques {
+  display: flex;
+  gap: 3px;
+  flex-wrap: wrap;
+}
+.musiques iframe {
+  border: none;
+}
+
+/*# sourceMappingURL=Musiques.css.map */

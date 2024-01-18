@@ -1,0 +1,8 @@
+.musiques {
+  display: flex;
+  gap: 3px;
+  flex-wrap: wrap;
+  iframe {
+    border: none;
+  }
+}

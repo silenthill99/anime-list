@@ -1,0 +1,24 @@
+@import "non compilés/variables";
+
+.silent-voice {
+  margin-top: 3%;
+  color: white;
+  .sv-infos
+  {
+    display: flex;
+    div {
+      width: 100%;
+    }
+
+    img {
+      margin: 50px;
+    }
+    h2 {
+      text-align: center;
+    }
+  }
+  background-color: $font;
+  h2 {
+    text-decoration: underline;
+  }
+}

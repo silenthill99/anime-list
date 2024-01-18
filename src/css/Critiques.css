@@ -1,0 +1,22 @@
+.silent-voice {
+  margin-top: 3%;
+  color: white;
+  background-color: #017D7D;
+}
+.silent-voice .sv-infos {
+  display: flex;
+}
+.silent-voice .sv-infos div {
+  width: 100%;
+}
+.silent-voice .sv-infos img {
+  margin: 50px;
+}
+.silent-voice .sv-infos h2 {
+  text-align: center;
+}
+.silent-voice h2 {
+  text-decoration: underline;
+}
+
+/*# sourceMappingURL=Critiques.css.map */
