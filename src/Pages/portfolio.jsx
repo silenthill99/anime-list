@@ -6,7 +6,6 @@ export const Portfolio = () => {
     return(
         <main>
             <div className="portfolio">
-
                 {PortfolioImages.map((image) => (
                     <a href={image.image} rel="noreferrer" target="_blank" key={image.name} className="lien-conteneur-photo">
                         <img src={image.image} alt={image.name}/>
