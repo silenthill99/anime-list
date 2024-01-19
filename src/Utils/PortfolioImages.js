@@ -22,5 +22,9 @@ export const PortfolioImages = [
     {
         name: "Lost song",
         image: "lost-song.jpg"
+    },
+    {
+        name: "Your name",
+        image: "yourname.jpg"
     }
 ]
