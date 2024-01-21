@@ -10,7 +10,7 @@ export const Critiques = () => {
                         <h2>A silent voice</h2>
                         <p><u>Note</u> : 17/20</p>
                         <br/>
-                        <p><u><strong>Résumé</strong></u> : Shoya Ishida était autrefois était un vrai tyran. Terreur de
+                        <p><u><strong>Résumé</strong></u> : Shoya Ishida était autrefois était un vrai caïd. Terreur de
                             l'école, les choses vont prendre un tournant lors de l'arrivée de Shoko Nishimiya dans sa
                             classe,
                             une jeune fille sourde. Shoko va alors être prise d'affection par tous ces camarades de
