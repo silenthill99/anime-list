@@ -20,5 +20,8 @@
   background-color: $font;
   h2 {
     text-decoration: underline;
+    &.sv-critique {
+      padding: 5px;
+    }
   }
 }

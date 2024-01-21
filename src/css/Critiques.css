@@ -18,5 +18,8 @@
 .silent-voice h2 {
   text-decoration: underline;
 }
+.silent-voice h2.sv-critique {
+  padding: 5px;
+}
 
 /*# sourceMappingURL=Critiques.css.map */
