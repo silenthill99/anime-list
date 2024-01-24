@@ -1,6 +1,7 @@
 import "../css/Actualités.scss"
 
 export const Actualités = () => {
+    document.title = "Actualités"
     return(
         <main>
             <h1>Actualités</h1>
