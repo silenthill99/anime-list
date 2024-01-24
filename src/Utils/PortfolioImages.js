@@ -26,5 +26,9 @@ export const PortfolioImages = [
     {
         name: "Your name",
         image: "yourname.jpg"
+    },
+    {
+        name: "Belle",
+        image: "belle.png"
     }
 ]
