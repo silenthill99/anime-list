@@ -13,6 +13,9 @@ export const Musiques = () => {
                         allowFullScreen></iframe>
                 <iframe title="deezer-widget" src="https://widget.deezer.com/widget/auto/album/59804632" width="400"
                         height="300" allowTransparency="true" allow="encrypted-media; clipboard-write"></iframe>
+                <iframe title="deezer-widget" src="https://widget.deezer.com/widget/auto/playlist/11658035824"
+                        width="400" height="300" allowTransparency="true"
+                        allow="encrypted-media; clipboard-write"></iframe>
             </div>
         </main>
     )
