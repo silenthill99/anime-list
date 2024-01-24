@@ -3,6 +3,7 @@ import {useState} from "react";
 
 export const Contacts = () => {
     const [inputValue, setInputValue] = useState("Nom")
+    document.title = "Nous contacter"
     return(
         <main>
             <h1>Nous contacter</h1>
