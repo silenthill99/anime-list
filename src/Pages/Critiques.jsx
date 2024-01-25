@@ -38,7 +38,15 @@ export const Critiques = () => {
                         </p>
                     </div>
                 </div>
+                <br/>
+                <p className="important"><strong><u>Note importante</u></strong> : je n'ai jamais lu les mangas, ce qui
+                    fait que l'analyse que je vais faire ne s'appuye que sur des éléments montrés dans le film. En plus,
+                    je n'ai vu le film qu'en VF. Il est donc fort probable que je soit passé à côté d'éléments
+                    importants, notamment pour le développement de certains personnages tels que Kawaï, que je trouve un
+                    peu trop gentille comparé à ce que j'ai pu lire sur le net.</p>
                 <h2 className="sv-critique">Critique</h2>
+                <p>Naoko Yamada, réalisatrice de l'animé "k-on!" a encore une fois frappé fort avec ce long métrage,
+                    méritant pour moi un statut de culte.</p>
                 <p>Adaptation d'un manga du même nom, "A Silent Voice" est un film vraiment très intéréssant, évoquant
                     plusieurs sujets délicats tels que le harcèlement, l'acceptation de soi, le handicap ou encore le
                     suicide. En effet, le film commence alors que Shoya s'apprête à mettre fin à ces jours, ne
@@ -46,26 +54,66 @@ export const Critiques = () => {
                     compte de la stupidité de son geste et finit par rebrousser chemin. Le film cherche aussi à nous
                     faire passer un message : certaines actions qu'on a commit dans le passé peuvent marquer à viie,
                     malgré les efforts effectués pour aller de l'avant et pour changer de comportement.</p>
+                <p>Cela se voit à travers la réaction de divers personnages en revoyant Shoya bien des années après les
+                    faits, notamment madame Nishimiya, ayant toujours de la rancoeur envers Ishida, allant jusqu'à le
+                    gifler et interdire ses filles de le revoir.</p>
                 <h3><u>Les personnages</u></h3>
                 <div className="personnages">
                     <img src="ishida.jpg" alt="Shoya Ishida"/>
                     <div>
                         <h4>Shoya Ishida</h4>
-                        <p>Personnage principal de l'oeuvre, Ishida est décrit au début du film comme étant un véritable caïd, n'hésitant pas à causer du tort autour de lui. Arrivé au lycée, il est passé du status de chef de style à celui de paria, il a bien changé. Ayant développé une sorte de phobie sociale, les choses commencent à évoluer lors de sa rencontre avec Nagatsuka. Il est intéressant de souligner l'évolution de ce dernnier, finissat par éprouver du regret sur son comportement du passé."</p>
+                        <p>Personnage principal de l'oeuvre, Ishida est décrit au début du film comme étant un véritable
+                            caïd, n'hésitant pas à causer du tort autour de lui. Arrivé au lycée, il est passé du status
+                            de chef de style à celui de paria, il a bien changé. Ayant développé une sorte de phobie
+                            sociale, les choses commencent à évoluer lors de sa rencontre avec Nagatsuka. Il est
+                            intéressant de souligner l'évolution de ce dernnier, finissat par éprouver du regret sur son
+                            comportement du passé."</p>
                     </div>
                     <img src="shoko.jpg" alt="Shoko Nishimiya"/>
                     <div>
                         <h4>Shoko Nishimiya</h4>
-                        <p>Shoko Nishimiya est une jeune fille sourde. Attendrissante et gentille, elle ne veut pas être considérée comme un fardeau par la société et tente toujours d'apporeter de l'aide, même envers ceux qui lui font du mal. Néanmoins, sa surdité fait qu'elle a beaucoup de mal avec la communication, mais tente tant bien que mal de s'intégrer dans la société. De plus, cela fait aussi qu'elle peut avoir beaucoup de mal à comprendre les autres. <br/><br/>Au début du film, nous la voyons beacou avec son cahier de communication dans les mains, mais petit à petit, son entourage va apprendre la langue des signes, et elle va apprendre à communiquer oralement.</p>
-                        <p>Mais, on peut aussi faire le constat qu'elle est malheureuse de sa situation. Lorsque Yuzuru décide de la filmer en cachette dans la grande roue avec Naoka, elle révèle se détester.</p>
+                        <p>Shoko Nishimiya est une jeune fille sourde. Attendrissante et gentille, elle ne veut pas être
+                            considérée comme un fardeau par la société et tente toujours d'apporeter de l'aide, même
+                            envers ceux qui lui font du mal. Néanmoins, sa surdité fait qu'elle a beaucoup de mal avec
+                            la communication, mais tente tant bien que mal de s'intégrer dans la société. De plus, cela
+                            fait aussi qu'elle peut avoir beaucoup de mal à comprendre les autres. <br/><br/>Au début du
+                            film, nous la voyons beacou avec son cahier de communication dans les mains, mais petit à
+                            petit, son entourage va apprendre la langue des signes, et elle va apprendre à communiquer
+                            oralement.</p>
+                        <p>Mais, on peut aussi faire le constat qu'elle est malheureuse de sa situation. Lorsque Yuzuru
+                            décide de la filmer en cachette dans la grande roue avec Naoka, elle révèle se détester.</p>
                     </div>
                     <img src="yuzuru.jpg" alt="Yuzuru Nishimiya"/>
                     <div>
                         <h4>Yuzuru Nishimiya</h4>
-                        <p>Petite soeur de Shoko, la première chose que nous pouvons constater sur son sujet est sa forte personnalité et son côté très protecteur envers sa grande soeur, allant jusqu'à sécher les cours pour se soucier d'avantage de Shoko.</p>
-                        <p>En effet, elle n'hésite pas à se faire passer pour un garçon envers ceux à qui elle ne fait pas confiance. C'est exactement ce qui s'est passé avec Shoya, ayant conscience de ce qu'il a fait à Shoko durant leur enfance. Elle va même encore plus loin, faisant croire qu'elle est en couple avec SHoko en voyant Shoya très insistant pour revoir la jeune femme. En revanche, dès lors qu'elle voit que Shoya a vraiment l'intention de changer, elle révèle sa véritable personnalité, douce et gentille.</p>
-                        <p>Passionnée par la photographie, elle porte presque partout avec elle son appareil photo, notamment pour surveiller Shoya lorsqu'il arrive à rentrer en contact avec Shoko, ou encore sa soeur dans la scène mentionnée plus tôt, pour prendre Shoya en photo en train de sauter d'un pont alors que c'est interdit, pour la publier ensuite sur internnet, ou encore pour prendre sdes photos d'animaux morts pour dissuader sa soeur de mettre fin à ses jours.</p><br/>
-                        <p className="spoiler">Malheureusement, cela ne marchera pas. Un soir, lors d'une sortie en famille, Shoko décide de rentrer chez elle plus tôt, afin de pouvoir sauter de son balcon. fort heureusement, elle est sauvée à tant par Shoya, envoyé par Yuzuru qui a oublié son appareil, mais cela tourna quand même au drame. Lorsque Shoya arrive à remonter Shoko, c'est finalement lui-même qui fini parr chuter du balcon et finit dans le coma.</p>
+                        <p>Petite soeur de Shoko, la première chose que nous pouvons constater sur son sujet est sa
+                            forte personnalité et son côté très protecteur envers sa grande soeur, allant jusqu'à sécher
+                            les cours pour se soucier d'avantage de Shoko.</p>
+                        <p>Son entourage (notamment Shoya et sa grand-mère) s'en souscient beaucoup et lui font
+                            régulièrement la remarque qu'elle ne prends pas assez de temps pour elle.
+                        </p>
+                        <p>De plus, elle n'hésite pas à se faire passer pour un garçon envers ceux à qui elle ne fait
+                            pas confiance. C'est exactement ce qui s'est passé avec Shoya, ayant conscience de ce qu'il
+                            a fait à Shoko durant leur enfance. Elle va même encore plus loin, faisant croire qu'elle
+                            est en couple avec Shoko en voyant Shoya très insistant pour revoir la jeune femme. En
+                            revanche, dès lors qu'elle voit que Shoya a vraiment l'intention de changer, elle révèle sa
+                            véritable personnalité, douce et gentille.</p>
+                        <p>Passionnée par la photographie, elle porte presque partout avec elle son appareil photo,
+                            notamment pour surveiller Shoya lorsqu'il arrive à rentrer en contact avec Shoko, ou encore
+                            sa soeur dans la scène mentionnée plus tôt, pour prendre Shoya en photo en train de sauter
+                            d'un pont alors que c'est interdit, pour la publier ensuite sur internnet, ou encore pour
+                            prendre sdes photos d'animaux morts pour dissuader sa soeur de mettre fin à ses jours.</p>
+                        <br/>
+                        <p className="spoiler">Malheureusement, cela ne marchera pas. Un soir, lors d'une sortie en
+                            famille, Shoko décide de rentrer chez elle plus tôt, afin de pouvoir sauter de son balcon.
+                            fort heureusement, elle est sauvée à tant par Shoya, envoyé par Yuzuru qui a oublié son
+                            appareil, mais cela tourna quand même au drame. Lorsque Shoya arrive à remonter Shoko, c'est
+                            finalement lui-même qui fini par chuter du balcon et finit dans le coma.
+                        </p>
+                        <br/>
+                        <p>En revanche, elle est souvent en conflits avec sa mère, avec qui elle semble partager malgré
+                            tout pas mal de points communs.
+                        </p>
                     </div>
                 </div>
             </section>

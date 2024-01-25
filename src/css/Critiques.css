@@ -38,6 +38,8 @@
 .spoiler {
   background-color: #111;
   color: transparent;
+  user-select: none;
+  transition-duration: 100ms;
 }
 .spoiler:hover {
   background-color: transparent;
@@ -49,6 +51,10 @@
   border: 1px solid black;
   border-radius: 10px;
   padding: 20px;
+}
+
+.important {
+  color: #6d071a;
 }
 
 /*# sourceMappingURL=Critiques.css.map */
